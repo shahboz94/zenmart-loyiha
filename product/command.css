@@ -533,33 +533,3 @@ p {
 
     color: #041e42;
  }
-/* page_router */
- .page_router {
-    margin: 20px 0;
-    width: 1320px;
-    cursor: pointer;
- }
-
- .page_router span {
-    font-family: var(--font);
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 22px;
-
-    color: #041e42;
- } 
-
- .page_router span.drop {
-    margin: 0 10px;
- }
-
- .page_router span.active {
-    font-family: var(--font);
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 22px;
-
-    color: #626974;
- }
